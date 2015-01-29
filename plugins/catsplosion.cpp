@@ -52,7 +52,7 @@ command_result catsplosion (color_ostream &out, std::vector <std::string> & para
 {
     list<string> s_creatures;
     // only cats for now.
-    s_creatures.push_back("CAT");
+    s_creatures.push_back("DRAGON");
     // make the creature list unique ... with cats. they are always unique
     s_creatures.unique();
     // SUSPEND THE CORE! ::Evil laugh::
